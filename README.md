@@ -49,3 +49,6 @@ The accuracy of hand tracking may vary depending on the lighting conditions and 
 The system volume control uses the volume up and down keys (default), so it may not work for all systems or may require specific hotkey configurations.
 The brightness control uses screen_brightness_control, which should work on most systems but may require additional setup.
 
+
+## Contact
+For any questions or comments, please reach out bhuvani1102@gmail.com.
