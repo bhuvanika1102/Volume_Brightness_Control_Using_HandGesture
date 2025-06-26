@@ -1,6 +1,6 @@
 # Hand Gesture Control for Volume and Brightness
 
-This project allows users to control their computer's volume and screen brightness using hand gestures. The program uses hand landmarks detection with the help of **MediaPipe** to track hand movements, and based on the gestures, it adjusts the volume and brightness. The thumb and index finger's distance is used to control brightness, and the left and right hands are used for controlling volume.
+This project allows users to control their computer's volume and screen brightness using hand gestures. The program uses hand landmarks detection with the help of **MediaPipe** to track hand movements, and based on the gestures, it adjusts the volume and brightness. The thumb and index finger's distance is used to control brightness and volume. The right side is used to control the volume and left side is used to control the brightness.
 
 ## Features:
 - **Brightness Control**: The distance between the thumb and index finger adjusts the screen brightness.
